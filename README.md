@@ -1,5 +1,4 @@
-Olá, me chamo Renilson, sou graduando em Análise e Desenvolvimento de Sistemas. ###
-E extremamente apaixonado pelo front end. 
+Olá, me chamo Renilson, graduando em Análise e Desenvolvimento de Sistemas e sou extremamente apaixonado pelo front end. 
 
 <!--
 **renilsonmf/renilsonmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
